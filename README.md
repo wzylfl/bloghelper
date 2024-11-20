@@ -20,13 +20,13 @@ Here are examples for how to use the resources in `bloghelper`
 ## Javascript
 
 ```php+HTML
-<script src="https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/js/XXX.js"></script>
+<script src="https://fastly.jsdelivr.net/gh/wzylfl/bloghelper@latest/js/XXX.js"></script>
 ```
 
 ## Images
 
 ```
-https://fastly.jsdelivr.net/gh/huangwb8/bloghelper@latest/images/XXX.webp
+https://fastly.jsdelivr.net/gh/wzylfl/bloghelper@latest/images/XXX.webp
 ```
 
 # Animation source
